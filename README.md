@@ -19,9 +19,9 @@
 ###
 <br clear="both">
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/Pranaw-dev/count.svg?"  />
-</div>
+</div> -->
 
 ###
 <br clear="both">
