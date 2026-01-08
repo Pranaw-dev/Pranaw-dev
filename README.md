@@ -65,23 +65,42 @@ Hi, I'm Pranaw from India ! 👋  <br><br>I am a passionate developer with a str
 
 <br clear="both">
 
-# 📊 GitHub Stats:
-
-###
+# 📊 GitHub Stats
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranaw-dev&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true" height="200" alt="stats graph"><br/><br>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=pranaw-dev&theme=aura_dark&hide_border=false" height="250" alt="streak graph"  /><br/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaw-dev&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"><br/><br>
-    
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranaw-dev&theme=nightowl&custom_title=Contribution%20Graph" height="200" alt="activity-graph graph"><br/><br>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random-dev-quote"><br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=pranaw-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4" height="150" alt="trophy graph"><br/><br>
+
+  <!-- GitHub Overall Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=pranaw-dev&show_icons=true&theme=aura_dark&hide_border=true&cache_seconds=1800"
+    height="170"
+    alt="GitHub Stats"
+  />
+
+  <br><br>
+
+  <!-- GitHub Streak Stats -->
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=pranaw-dev&theme=aura_dark&hide_border=true"
+    height="170"
+    alt="GitHub Streak"
+  />
+
+  <br><br>
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaw-dev&layout=compact&theme=aura_dark&hide_border=true&cache_seconds=1800"
+    height="150"
+    alt="Top Languages"
+  />
+
 </div>
+
 <br>
 <hr>
+
 
 
 
