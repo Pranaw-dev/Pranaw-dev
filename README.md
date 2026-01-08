@@ -65,44 +65,7 @@ Hi, I'm Pranaw from India ! 👋  <br><br>I am a passionate developer with a str
 
 <br clear="both">
 
-# 📊 GitHub Stats
 
-<br clear="both">
-
-<div align="center">
-
-  <!-- GitHub Overall Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Pranaw-dev&show_icons=true&theme=aura_dark&hide_border=true&cache_seconds=1800"
-    height="170"
-    alt="GitHub Stats"
-  />
-
-  <br><br>
-
-  <!-- GitHub Streak Stats -->
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=Pranaw-dev&theme=aura_dark&hide_border=true"
-    height="170"
-    alt="GitHub Streak"
-  />
-
-  <br><br>
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranaw-dev&layout=compact&theme=aura_dark&hide_border=true&cache_seconds=1800"
-    height="150"
-    alt="Top Languages"
-  />
-
-  <img 
-  src="https://github-profile-trophy.vercel.app/?username=Pranaw-dev&theme=onedark&margin-w=10"
-  alt="GitHub Trophies"
-/>
-
-
-</div>
 
 <br>
 <hr>
