@@ -20,7 +20,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="<img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />"  />
+  <img src="<img src="https://profile-counter.deno.dev/Pranaw-dev/count.svg" alt="Visitor's Count" />
 </div>
 
 ###
