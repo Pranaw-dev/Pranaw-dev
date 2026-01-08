@@ -19,10 +19,6 @@
 ###
 <br clear="both">
 
-<div align="center">
-  <img src="https://profile-counter.deno.dev/Pranaw-dev/count.svg" alt="Key:: Visitor's Count" />
-</div>
-
 ###
 <br clear="both">
 
