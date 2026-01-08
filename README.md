@@ -19,9 +19,9 @@
 ###
 <br clear="both">
 
-<!-- <div align="center">
-  <img src="https://profile-counter.glitch.me/Pranaw-dev/count.svg?"  />
-</div> -->
+<div align="center">
+  <img src="https://profile-counter.deno.dev/Pranaw-dev/count.svg" alt="Visitor's Count" />
+</div>
 
 ###
 <br clear="both">
